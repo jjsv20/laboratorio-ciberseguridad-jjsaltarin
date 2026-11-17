@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Objetivo de la prueba en la DMZ
-TARGET="" #cambiar
+TARGET="https://servidor-wen-dmz-jjsaltarin.onrender.com"
 
 # Lista reducida para simular Credential Stuffing / Fuerza Bruta
 USUARIOS="admin root user docente gestor"
